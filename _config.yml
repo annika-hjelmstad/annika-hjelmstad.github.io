@@ -1,0 +1,4 @@
+url: annika-hjelmstad.github.io
+baseurl: /annika-hjelmstad.github.io
+plugins:
+  - jekyll-remote-theme
