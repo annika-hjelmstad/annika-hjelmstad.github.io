@@ -96,7 +96,9 @@ Hayden Library, Arizona State University.
 Dorrance Scholarship Programs.  
 
 ---
-# Publications
+# Publications and Presentations
+1. **Hjelmstad, A.**, & AghaKouchak, A. (2022, December). Impact-Based Attribution of Heatwaves [Oral presentation]. American Geophysical Union Fall Meeting 2022, Session GC56A:  Detection and Attribution of Anthropogenic Climate Change and Extreme Weather and Climate Events, Chicago, Illinois.
+1. **Hjelmstad, A.**, & AghaKouchak, A. (2021, December). Impact-Based Attribution of Extreme Events [Poster]. American Geophysical Union Fall Meeting 2021, Session GC022: Climate Litigation Relevant Research: Hazards, Impacts, and Attribution Science, Virtual.
 1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., & Mascaro, G. (2021). Propagation of Radar Rainfall Uncertainties into Urban Pluvial Flood Modeling during the North American Monsoon. Manuscript submitted to Hydrological Sciences Journal for publication.
 1. Zeng, C., Atkinson, A., Sharma, N., Ashani, H., **Hjelmstad, A.**, Venkatesh, K., & Westerhoff, P. (2020). Removing per-and polyfluoroalkyl substances from groundwaters using activated carbon and ion exchange resin packed columns. AWWA Water Science, 2(1).
 1. **Hjelmstad, A.**, Garcia, M., & Larson, K. (2019). Effect of Drought Policies on Los Angeles Water Demand. World Environmental and Water Resources Congress 2019 239. In World Environmental and Water Resources Congress 2019 (pp. 239–250). Posters & Presentations
@@ -114,9 +116,10 @@ Dorrance Scholarship Programs.
 
 ---
 # Awards
+- July 2022: EPA Environmental Justice Video Challenge for Students, First place: *Unearthing Lead: The Power of Historical Maps*  
 - June 2022: Awarded UCI-Engineering LANL Fellowship
 - June 2021: Awarded Ridge to Reef and UCI Graduate Division fellowship
-- Spring 2020: Awarded Provost PhD Fellowship (UCI Graduate Division).
+- Spring 2020: Awarded Provost PhD Fellowship (UCI Graduate Division)
 - May 2019: 3rd place, ASCE-EWRI Conference Poster Competition.
 - Dec 2018: Civil, Environmental, and Sustainable Engineering Leadership and
 - Service Award, Arizona State University.
