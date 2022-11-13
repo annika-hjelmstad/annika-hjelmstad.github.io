@@ -1,5 +1,5 @@
 url: "https://annika-hjelmstad.github.io"
-baseurl: "/annika-hjelmstad.github.io"
+#baseurl: "/annika-hjelmstad.github.io"
 markdown: kramdown
 name: Annika Hjelmstad
 title: Annika Hjelmstad
