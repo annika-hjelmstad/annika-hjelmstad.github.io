@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-# Annika Hjelmstad
 
----
-## Education
+# Education
 **September 2020 – present: Ph.D. Civil and Environmental Engineering** (Hydrology and Water Resources). University of California Irvine, Irvine, CA.  
 - May 2021: Passed preliminary exam.
 
@@ -21,7 +19,7 @@ Demand
 - Completed 147 credit hours in 3.5 years.
 
 ---
-## Experience
+# Experience
 **September 2020-present: Graduate Student Researcher**
 Dr. Amir AghaKouchak, University of California Irvine.  
 - Research topic: Impact-based attribution of extreme events. 
@@ -98,7 +96,7 @@ Hayden Library, Arizona State University.
 Dorrance Scholarship Programs.  
 
 ---
-## Publications
+# Publications
 1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., & Mascaro, G. (2021). Propagation of Radar Rainfall Uncertainties into Urban Pluvial Flood Modeling during the North American Monsoon. Manuscript submitted to Hydrological Sciences Journal for publication.
 1. Zeng, C., Atkinson, A., Sharma, N., Ashani, H., **Hjelmstad, A.**, Venkatesh, K., & Westerhoff, P. (2020). Removing per-and polyfluoroalkyl substances from groundwaters using activated carbon and ion exchange resin packed columns. AWWA Water Science, 2(1).
 1. **Hjelmstad, A.**, Garcia, M., & Larson, K. (2019). Effect of Drought Policies on Los Angeles Water Demand. World Environmental and Water Resources Congress 2019 239. In World Environmental and Water Resources Congress 2019 (pp. 239–250). Posters & Presentations
@@ -107,7 +105,15 @@ Dorrance Scholarship Programs.
 1. **Hjelmstad, A.**, Garcia, M., Larson, K. (2019, May). Effect of Drought Policies on Los Angeles Water Demand. Poster presented at the meeting of ASCE EWRI World Environmental Resources Conference, Pittsburgh, PA. (Presented)
 
 ---
-## Awards
+# Service  
+- August 2022-present: Officer, CEE Graduate Association (CEEGA)
+- May 2022-present: Student representative, UCI-CEE Graduate Affairs Committee
+- October 2021-present: Student Advisory Board member, Center for Environmental Health Disparities Research
+- May 2021-present: Graduate student representative, Diversity, Equity, and Inclusion Committee (UCI-CEE)
+- January 2021-present: Officer and founding member, Reframing CEE at UCI (CEER)
+
+---
+# Awards
 - June 2022: Awarded UCI-Engineering LANL Fellowship
 - June 2021: Awarded Ridge to Reef and UCI Graduate Division fellowship
 - Spring 2020: Awarded Provost PhD Fellowship (UCI Graduate Division).
@@ -117,11 +123,11 @@ Dorrance Scholarship Programs.
 - Fall 2015-Fall 2018: Dean’s list, Fulton Schools of Engineering, Arizona State University. FA15, FA16, FA17, SP18, FA18.
 
 ---
-## Certifications
+# Certifications
 - March 2019 Passed Fundamentals of Engineering (FE Civil) exam.
 
 ---
-## Technical Skills
+# Technical Skills
 - Programming in MATLAB, R, and Python
 - Statistical analysis
 - Completed lab safety training at Arizona State University
