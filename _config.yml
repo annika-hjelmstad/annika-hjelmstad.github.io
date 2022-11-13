@@ -3,15 +3,9 @@ baseurl: "/annika-hjelmstad.github.io"
 markdown: kramdown
 name: Annika Hjelmstad
 title: Annika Hjelmstad
-blank_title: true
-description: ""
-show_downloads: false
 remote_theme: BDHU/minimalist
 color-scheme: dark
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
   - jekyll-remote-theme
 
 sidebar:
