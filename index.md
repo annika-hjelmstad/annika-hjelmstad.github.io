@@ -111,8 +111,8 @@ Dorrance Scholarship Programs.
 - August 2022-present: Officer, CEE Graduate Association (CEEGA)
 - May 2022-present: Student representative, UCI-CEE Graduate Affairs Committee
 - October 2021-present: Student Advisory Board member, Center for Environmental Health Disparities Research
-- May 2021-present: Graduate student representative, Diversity, Equity, and Inclusion Committee (UCI-CEE)
 - January 2021-present: Officer and founding member, Reframing CEE at UCI (CEER)
+- May 2021-Dec 2022: Graduate student representative, Diversity, Equity, and Inclusion Committee (UCI-CEE)
 
 ---
 # Awards
