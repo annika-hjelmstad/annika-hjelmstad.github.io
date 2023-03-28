@@ -5,6 +5,7 @@ title: Annika Hjelmstad
 blank_title: true
 remote_theme: BDHU/minimalist
 color-scheme: dark
+favicon: true
 plugins:
   - jekyll-remote-theme
 
