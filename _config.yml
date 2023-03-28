@@ -2,7 +2,7 @@ url: "https://annika-hjelmstad.github.io"
 markdown: kramdown
 name: Annika Hjelmstad
 title: Annika Hjelmstad
-blank_title: true
+# blank_title: true
 remote_theme: BDHU/minimalist
 color-scheme: dark
 favicon: true
