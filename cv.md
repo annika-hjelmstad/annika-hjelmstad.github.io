@@ -96,15 +96,19 @@ Hayden Library, Arizona State University.
 Dorrance Scholarship Programs.  
 
 ---
-# Publications and Presentations
-1. **Hjelmstad, A.**, & AghaKouchak, A. (2022, December). Impact-Based Attribution of Heatwaves [Oral presentation]. American Geophysical Union Fall Meeting 2022, Session GC56A:  Detection and Attribution of Anthropogenic Climate Change and Extreme Weather and Climate Events, Chicago, Illinois.
-1. **Hjelmstad, A.**, & AghaKouchak, A. (2021, December). Impact-Based Attribution of Extreme Events [Poster]. American Geophysical Union Fall Meeting 2021, Session GC022: Climate Litigation Relevant Research: Hazards, Impacts, and Attribution Science, Virtual.
+# Publications
 1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., & Mascaro, G. (2021). Propagation of Radar Rainfall Uncertainties into Urban Pluvial Flood Modeling during the North American Monsoon. Manuscript submitted to Hydrological Sciences Journal for publication.
 1. Zeng, C., Atkinson, A., Sharma, N., Ashani, H., **Hjelmstad, A.**, Venkatesh, K., & Westerhoff, P. (2020). Removing per-and polyfluoroalkyl substances from groundwaters using activated carbon and ion exchange resin packed columns. AWWA Water Science, 2(1).
 1. **Hjelmstad, A.**, Garcia, M., & Larson, K. (2019). Effect of Drought Policies on Los Angeles Water Demand. World Environmental and Water Resources Congress 2019 239. In World Environmental and Water Resources Congress 2019 (pp. 239–250). Posters & Presentations
+
+---
+# Presentations
+1. **Hjelmstad, A.**, & AghaKouchak, A. (2022, December). Impact-Based Attribution of Heatwaves [Oral presentation]. American Geophysical Union Fall Meeting 2022, Session GC56A:  Detection and Attribution of Anthropogenic Climate Change and Extreme Weather and Climate Events, Chicago, Illinois.
+1. **Hjelmstad, A.**, & AghaKouchak, A. (2021, December). Impact-Based Attribution of Extreme Events [Poster]. American Geophysical Union Fall Meeting 2021, Session GC022: Climate Litigation Relevant Research: Hazards, Impacts, and Attribution Science, Virtual.
 1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., Hopper Jr., L., Iñiguez, P., Mascaro, G. (2021, January). Propagation of Radar Rainfall Uncertainty into Urban Flood Predictions during the North American Monsoon. Poster presented at the meeting of the 101st American Meteorological Society Annual Meeting, 35th Conference on Hydrology, Virtual. (Presented)
 1. Zeng, C., Sharma, N., **Hjelmstad, A.**, Venkatesh, K., & Westerhoff, P. (2019, August). Removal of perfluoroalkyl substances (PFASs) in groundwater using activated carbon and ion exchange resin: Column test. In ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (Vol. 258). 1155 16TH ST, NW, WASHINGTON, DC 20036 USA: AMER CHEMICAL SOC.
 1. **Hjelmstad, A.**, Garcia, M., Larson, K. (2019, May). Effect of Drought Policies on Los Angeles Water Demand. Poster presented at the meeting of ASCE EWRI World Environmental Resources Conference, Pittsburgh, PA. (Presented)
+
 
 ---
 # Service  
