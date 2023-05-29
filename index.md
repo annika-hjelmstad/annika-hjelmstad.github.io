@@ -8,12 +8,12 @@ I am a PhD student in [Civil and Environmental Engineering](https://engineering.
 
 # News
 ## UCI Team wins first place in Phase II of EPA Environmental Justice Video Challenge
-Our student team won first place for our video and proposal entitled "Civic Bioremediation: Building a Network of Soil Practitioners" in collaboration with Orange OCEJ. See the press release [here](https://www.epa.gov/innovation/phase-2-winners-ej-video-challenge-students).
+*May 2023*: Our student team won first place for our video and proposal entitled "Civic Bioremediation: Building a Network of Soil Practitioners" in collaboration with Orange OCEJ. See the press release [here](https://www.epa.gov/innovation/phase-2-winners-ej-video-challenge-students).
 
 {% include youtube.html id="S6tZfiOTeCA" %}
 
 ## UCI Team wins first place in Phase I of EPA Environmental Justice Video Challenge
-Out student team won first place for our video entitled "Unearthing Lead: The Power of Historical Maps" in collaboration with Orange County Environmental Justice (OCEJ). See the press release [here](https://www.epa.gov/innovation/phase-1-winners-ej-video-challenge-students).
+*July 2022*: Our student team won first place for our video entitled "Unearthing Lead: The Power of Historical Maps" in collaboration with Orange County Environmental Justice (OCEJ). See the press release [here](https://www.epa.gov/innovation/phase-1-winners-ej-video-challenge-students).
 
 {% include youtube.html id="IE-ax71ClaI" %}
 
