@@ -121,7 +121,7 @@ Dorrance Scholarship Programs.
 
 ---
 # Awards
-- May 2023: EPA Environmental Justice Video Challenge for Students Phase II, First place: *Unearthing Lead: The Power of Historical Maps*  
+- May 2023: EPA Environmental Justice Video Challenge for Students Phase II, First place: *Civic Bioremediation: Building a Network of Soil Practitioners*  
 - July 2022: EPA Environmental Justice Video Challenge for Students Phase I, First place: *Unearthing Lead: The Power of Historical Maps*  
 - June 2022: Awarded UCI-Engineering LANL Fellowship
 - June 2021: Awarded Ridge to Reef and UCI Graduate Division fellowship
