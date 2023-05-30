@@ -97,7 +97,7 @@ Dorrance Scholarship Programs.
 
 ---
 # Peer-Reviewed Publications
-1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., & Mascaro, G. (2021). Propagation of Radar Rainfall Uncertainties into Urban Pluvial Flood Modeling during the North American Monsoon. Manuscript submitted to Hydrological Sciences Journal for publication.
+1. **Hjelmstad, A.**, Shrestha, A., Garcia, M., & Mascaro, G. (2021). Propagation of radar rainfall uncertainties into urban pluvial flood modeling during the North American monsoon. Hydrological Sciences Journal, 66(15), 2232–2248.
 1. Zeng, C., Atkinson, A., Sharma, N., Ashani, H., **Hjelmstad, A.**, Venkatesh, K., & Westerhoff, P. (2020). Removing per-and polyfluoroalkyl substances from groundwaters using activated carbon and ion exchange resin packed columns. AWWA Water Science, 2(1).
 
 ---
