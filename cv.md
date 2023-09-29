@@ -5,6 +5,7 @@ layout: default
 # Education
 **September 2020 – present: Ph.D. Civil and Environmental Engineering** (Hydrology and Water Resources). University of California Irvine, Irvine, CA.  
 - May 2021: Passed preliminary exam.
+- August 2023: Advanced to candidacy (passed qualifying exam). 
 
 **May 2020: M.S. Civil, Environmental, and Sustainable Engineering**
 (Hydrosystems Engineering). Arizona State University, Tempe, AZ.  
