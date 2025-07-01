@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome!
-
 I am a PhD student in [Civil and Environmental Engineering](https://engineering.uci.edu/dept/cee) (Hydrology) at the University of California, Irvine in Amir AghaKouchak's [Hydroclimate Research Lab](https://amir.eng.uci.edu/index.php). My current work focuses on developing impact-based approaches to climate change attribution. More broadly, I am passionate about the role of climate scientists in accessible science communication, environmental justice, and climate policy.
 
 # News
