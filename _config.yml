@@ -5,7 +5,7 @@ title: Annika Hjelmstad
 email: ahjelmst@uci.edu
 # blank_title: true
 # logo: ./assets/headshot.png
-remote_theme: poole/hyde  # BDHU/minimalist
+remote_theme: pages-themes/minimal@v0.2.0  # BDHU/minimalist
 # color-scheme: light
 favicon: true
 plugins:
