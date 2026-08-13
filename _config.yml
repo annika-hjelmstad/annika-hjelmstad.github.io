@@ -6,7 +6,7 @@ email: ahjelmst@uci.edu
 # blank_title: true
 logo: ./assets/headshot.png
 remote_theme: BDHU/minimalist
-color-scheme: dark
+color-scheme: light
 favicon: true
 plugins:
   - jekyll-remote-theme
