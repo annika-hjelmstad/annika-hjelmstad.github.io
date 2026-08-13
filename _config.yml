@@ -4,8 +4,8 @@ name: Annika Hjelmstad
 title: Annika Hjelmstad
 email: ahjelmst@uci.edu
 # blank_title: true
-logo: ./assets/headshot.png
-remote_theme: just-the-docs  # BDHU/minimalist
+# logo: ./assets/headshot.png
+remote_theme: poole/hyde  # BDHU/minimalist
 # color-scheme: light
 favicon: true
 plugins:
